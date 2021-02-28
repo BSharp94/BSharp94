@@ -9,9 +9,9 @@
 
 ✔︎ [Why We Sleep (Unlocking the Power of Sleep and Dreams)](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
 
-☞ [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
+✔︎ [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 
-○ [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620/ref=sr_1_1?crid=VX45EBJVU9YY&dchild=1&keywords=nosql+distilled&qid=1612661782&s=books&sprefix=nosql+di%2Cstripbooks%2C168&sr=1-1)
+☞ [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620/ref=sr_1_1?crid=VX45EBJVU9YY&dchild=1&keywords=nosql+distilled&qid=1612661782&s=books&sprefix=nosql+di%2Cstripbooks%2C168&sr=1-1)
 
 ○ [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 
