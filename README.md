@@ -11,7 +11,7 @@
 
 ✔︎ [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 
-☞ [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620/ref=sr_1_1?crid=VX45EBJVU9YY&dchild=1&keywords=nosql+distilled&qid=1612661782&s=books&sprefix=nosql+di%2Cstripbooks%2C168&sr=1-1)
+✔︎ [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620/ref=sr_1_1?crid=VX45EBJVU9YY&dchild=1&keywords=nosql+distilled&qid=1612661782&s=books&sprefix=nosql+di%2Cstripbooks%2C168&sr=1-1)
 
 ○ [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 
@@ -19,7 +19,7 @@
 
 ❍ [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107)
 
-❍ [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627)
+☞ [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627)
 
 Reread
 
